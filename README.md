@@ -65,7 +65,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/dmseka08@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </br>
 </br>
-<a href="https://github.com/SeungHyun29/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungHyun29&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
-</a>
+
+<div style="display: flex; align-items: flex-start;"></div><div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SeungHyun29&show_icons=true&count_private=true&theme=swift" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHyun29&layout=compact&hide_border=true&theme=swift" height="150">
 </div>
